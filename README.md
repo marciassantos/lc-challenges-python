@@ -1,3 +1,3 @@
 # Curso Digital: Git
 
-# Gravando mundanças no repositório
+# Salvando mofificações no Git
